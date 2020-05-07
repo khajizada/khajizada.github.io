@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/khajizada/khajizada.github
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<link rel="shortcut icon" type="azerbaijan-flag-icon.png" href="favicon.ico">
+<link rel="shortcut icon" type="khajizada.github.io/azerbaijan-flag-icon.png" href="favicon.ico">
 
 ### Markdown
 
